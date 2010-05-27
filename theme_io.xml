@@ -1,0 +1,46 @@
+<ConfigMaps>
+<ConfigMap type="Skin">
+<meta name="title">IO Network</meta>
+<meta name="description">Theme from http://www.ionetwork.com</meta>
+<meta name="author">Gregory Anne</meta>
+<meta name="author_email">anne.gregory@ionetwork.com</meta>
+<meta name="thumbnail">http://io-ig-theme.googlecode.com/svn/trunk/io_thumbnail.jpeg</meta>
+</ConfigMap>
+<ConfigMap type="Skin">
+<Attribute name="header.background_color">#ffffff</Attribute>
+<Attribute name="header.center_image.url">http://io-ig-theme.googlecode.com/svn/trunk/banner_main.gif</Attribute>
+<Attribute name="header.tile_image.url">http://io-ig-theme.googlecode.com/svn/trunk/banner_stretch.gif</Attribute>
+<Attribute name="header.logo">original</Attribute>
+<Attribute name="header.link_color">#8888ff</Attribute>
+<Attribute name="header.text_color">#ffffff</Attribute>
+<Attribute name="navbar.background_color">#ffa500</Attribute>
+<Attribute name="navbar.border_color">#d3d3d3</Attribute>
+<Attribute name="navbar.icons.icon_color">#00a9ff</Attribute>
+<Attribute name="navbar.tab.selected.link_color">#000000</Attribute>
+<Attribute name="navbar.tab.unselected.link_color">#000000</Attribute>
+<Attribute name="navbar.tab.unselected.border_color">#ffa500</Attribute>
+<Attribute name="navbar.contacts.contact_color">#000000</Attribute>
+<Attribute name="navbar.contacts.status_color">#666666</Attribute>
+<Attribute name="navbar.contacts.hover_background_color">#D4E6FC</Attribute>
+<Attribute name="navbar.contacts.card.border_color">#C3D9FF</Attribute>
+<Attribute name="navbar.contacts.invite.background_color">#FFFFCC</Attribute>
+<Attribute name="navbar.contacts.invite.border_color">#FFCC35</Attribute>
+<Attribute name="navbar.contacts.invite.text_color">#000000</Attribute>
+<Attribute name="navbar.contacts.invite.link_color">#0000cc</Attribute>
+<Attribute name="gadget_area.chat.header.background_color">#73A6FF</Attribute>
+<Attribute name="gadget_area.chat.header.highlight.background_color">#FF8A00</Attribute>
+<Attribute name="gadget_area.border_color">#C3D9FF</Attribute>
+<Attribute name="gadget_area.gadget.border_color">#BDCAD8</Attribute>
+<Attribute name="gadget_area.gadget.hover.border_color">#d3d3d3</Attribute>
+<Attribute name="gadget_area.gadget.header.background_color">#cca500</Attribute>
+<Attribute name="gadget_area.gadget.header.text_color">#000000</Attribute>
+<Attribute name="gadget_area.gadget.body.link_color">#000088</Attribute>
+<Attribute name="gadget_area.icons.icon_color">#00a9ff</Attribute>
+<Attribute name="footer.background_color">#ECF4FD</Attribute>
+<Attribute name="footer.link_color">#0000cc</Attribute>
+<Attribute name="footer.text_color">#000000</Attribute>
+<Attribute name="attribution.image.url">
+http://io-ig-theme.googlecode.com/svn/trunk/englishblazere.jpg
+</Attribute>
+</ConfigMap>
+</ConfigMaps>
